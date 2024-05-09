@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+}
+
+#table-content{
+    width: 100%;
+}
+
+th{
+    border: 1px solid black;
+    font-size: 130%;
+    background-color: rgba(0, 255, 255, 0.3);
+}
+
+td{
+    width: 27%;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 110%;
+}
+
+img{
+    width: 100%;
+}
+
+.style1 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
